@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# DA Monitoring content
+Content for the DA Monitoring suite
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
