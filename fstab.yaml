@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/documentauthoring/da-aem-monitoring/
+    url: https://content.da.live/da-sites/da-status/
     type: markup
